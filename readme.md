@@ -1,6 +1,6 @@
 # Hi, I’m Harshitaa  
 
-**Security Research Engineer 🛡️ PenTester 🛡️ Certified Ethical Hacker (CEH)**  
+**🛡️ Security Research Engineer 🛡️ PenTester 🛡️ Certified Ethical Hacker (CEH)**  
 
 🐞 I like to research and hunt for bugs. 
 
