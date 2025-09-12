@@ -1,9 +1,10 @@
 # Hi, I’m Harshitaa  
 
-**Security Research Engineer | PenTester | Certified Ethical Hacker (CEH)**  
+**Security Research Engineer 🛡️ PenTester 🛡️ Certified Ethical Hacker (CEH)**  
 
-I like to research and hunt for bugs. 
-Also, build codes to break applications and automate workflows. 
+🐞 I like to research and hunt for bugs. 
+
+🔧 Also, build codes to break applications and automate workflows. 
 
 ---
 
@@ -16,7 +17,7 @@ Also, build codes to break applications and automate workflows.
 
 ---
 
-## Tech Stack  
+## 🕹️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,7 +33,7 @@ Also, build codes to break applications and automate workflows.
 
 ---
 
-## Featured Repos  
+## 🤖 Featured Repos  
  
 
 ---
@@ -43,7 +44,7 @@ Also, build codes to break applications and automate workflows.
 
 ---
 
-## Lets Connect!
+## 🌐 Lets Connect! 
 - Linkedin - [LinkedIn – Harshitaa Ashish](https://www.linkedin.com/in/harshitaa-ashish-85767621a/)  
 - Portfolio: [Website](https://imharshitaa.github.io/root0zaki/)  
 - Github - [GitHub – imharshitaa](https://github.com/imharshitaa)  
