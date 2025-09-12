@@ -4,7 +4,7 @@
 
 🐞 I like to hunt for bugs and build codes to break applications. 
 
-## Work Arsenal 
+## What I do 
 - Application, API & Web Security Testing  
 - Exploit Code Development (Offensive & Defensive)  
 - Threat Intelligence & Research  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🕹️ Tech Stack  
+## 🕹️ Work Arsenal  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
