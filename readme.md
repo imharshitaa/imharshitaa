@@ -2,16 +2,13 @@
 
 **🛡️ Security Research Engineer 🛡️ PenTester 🛡️ Certified Ethical Hacker (CEH)**  
 
-🐞 I like to study and hunt for bugs. 
-
-🔧 Build codes to break applications and automate workflows. 
-
+🐞 I like to hunt for bugs and build codes to break applications. 
 
 ## Work Arsenal 
 - Application, API & Web Security Testing  
 - Exploit Code Development (Offensive & Defensive)  
 - Threat Intelligence & Research  
-- DevSecOps & Secure Automation  
+- DevSecOps & Secure Automation workflows
 - Open Source tools & Vulnerability analysis  
 
 ---
