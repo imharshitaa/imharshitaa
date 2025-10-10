@@ -29,7 +29,12 @@
 
 
 ## 🤖 Featured Repos  
-
+| Project Name | GitHub Link |
+|--------------|-------------|
+| **AI-Pentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) |
+| **playbox** | [github.com/imharshitaa/playbox](https://github.com/imharshitaa/playbox) |
+| **API_Pentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) |
+| **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) |
 
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
