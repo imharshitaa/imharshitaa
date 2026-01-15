@@ -4,6 +4,11 @@
 
 🐞 I like to hunt for bugs and build codes to break applications. 
 
+## 🌐 Lets Connect! 
+- Linkedin - [LinkedIn – Harshitaa Ashish](https://www.linkedin.com/in/harshitaa-ashish-85767621a/)  
+- Portfolio: [Website](https://imharshitaa.github.io/root0zaki/)  
+- Github - [GitHub – imharshitaa](https://github.com/imharshitaa) 
+
 ## What I do 
 - Application, API & Web Security Testing  
 - Exploit Code Development (Offensive & Defensive)  
@@ -31,10 +36,12 @@
 ## 🤖 Featured Repos  
 | Project Name | GitHub Link |
 |--------------|-------------|
+| **BUGPILOT**| [github.com/imharshitaa/bugpilot](https://github.com/imharshitaa/bugpilot) |
+| **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) |
 | **AI-Pentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) |
 | **playbox** | [github.com/imharshitaa/playbox](https://github.com/imharshitaa/playbox) |
 | **API_Pentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) |
-| **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) |
+
 
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
@@ -42,10 +49,7 @@
 
 ---
 
-## 🌐 Lets Connect! 
-- Linkedin - [LinkedIn – Harshitaa Ashish](https://www.linkedin.com/in/harshitaa-ashish-85767621a/)  
-- Portfolio: [Website](https://imharshitaa.github.io/root0zaki/)  
-- Github - [GitHub – imharshitaa](https://github.com/imharshitaa)  
+ 
 
 
 
