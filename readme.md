@@ -4,11 +4,6 @@
 
 🐞 I like to hunt for bugs and build codes to break applications. 
 
-** Lets Connect! **
-- Linkedin - [LinkedIn – Harshitaa Ashish](https://www.linkedin.com/in/harshitaa-ashish-85767621a/)  
-- Portfolio: [Website](https://imharshitaa.github.io/root0zaki/)  
-- Github - [GitHub – imharshitaa](https://github.com/imharshitaa) 
-
 ## What I do 
 - Application, API & Web Security Testing  
 - Exploit Code Development (Offensive & Defensive)  
@@ -48,6 +43,11 @@
 - Open Source Security Tools & Research Projects  
 
 ---
+
+## Lets Connect! 
+- Linkedin - [LinkedIn – Harshitaa Ashish](https://www.linkedin.com/in/harshitaa-ashish-85767621a/)  
+- Portfolio: [Website](https://imharshitaa.github.io/root0zaki/)  
+- Github - [GitHub – imharshitaa](https://github.com/imharshitaa) 
 
  
 
