@@ -4,7 +4,7 @@
 
 🐞 I like to hunt for bugs and build codes to break applications. 
 
-## 🌐 Lets Connect! 
+** Lets Connect! **
 - Linkedin - [LinkedIn – Harshitaa Ashish](https://www.linkedin.com/in/harshitaa-ashish-85767621a/)  
 - Portfolio: [Website](https://imharshitaa.github.io/root0zaki/)  
 - Github - [GitHub – imharshitaa](https://github.com/imharshitaa) 
