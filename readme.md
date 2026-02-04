@@ -37,15 +37,14 @@
 | **playbox** | [github.com/imharshitaa/playbox](https://github.com/imharshitaa/playbox) |
 | **API_Pentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) |
 
-## 📈 GitHub Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=github-dark)
+## ⚡ GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=tokyo-night&hide_border=true)
 
-![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
 
 ## ⏳ Working On  
