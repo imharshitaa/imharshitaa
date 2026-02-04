@@ -40,11 +40,11 @@
 
 ## ⚡ GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=tokyonight&hide_border=true)
+## ⚡ GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=tokyo-night&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=github-dark&hide_border=true&token=YOUR_GITHUB_TOKEN)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&count_private=true&theme=github_dark&hide_border=true&token=YOUR_GITHUB_TOKEN)
 
 
 ## ⏳ Working On  
