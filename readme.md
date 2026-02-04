@@ -37,6 +37,16 @@
 | **playbox** | [github.com/imharshitaa/playbox](https://github.com/imharshitaa/playbox) |
 | **API_Pentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) |
 
+## 📈 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=github-dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=tokyo-night)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=dark)
+
+![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=github_dark)
+
 
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
