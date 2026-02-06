@@ -36,9 +36,8 @@
 | **ToolKit** | [github.com/imharshitaa/toolkit](https://github.com/imharshitaa/toolkit) |
 | **BUGPILOT**| [github.com/imharshitaa/bugpilot](https://github.com/imharshitaa/bugpilot) |
 | **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) |
-| **AI-Pentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) |
-| **playbox** | [github.com/imharshitaa/playbox](https://github.com/imharshitaa/playbox) |
-| **API_Pentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) |
+| **AIPentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) |
+| **APIPentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) |
 
 
 ## Activity
