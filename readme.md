@@ -44,12 +44,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=react-dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=react-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=radical)
-
-![Metrics](https://metrics.lecoq.io/imharshitaa?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia/Kolkata)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imharshitaa&layout=compact&hide_border=true&theme=github_dark)
 
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
