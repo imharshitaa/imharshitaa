@@ -4,6 +4,8 @@
 
 🐞 I like to hunt for bugs and build codes to break applications. 
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=github_dark)
+
 ## What I do 
 - Application, API & Web Security Testing  
 - Exploit Code Development (Offensive & Defensive)  
@@ -40,13 +42,7 @@
 
 ## Activity
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=github_dark)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=react-dark)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imharshitaa&layout=compact&hide_border=true&theme=github_dark)
 
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
