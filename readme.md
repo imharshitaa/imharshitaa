@@ -44,11 +44,11 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=react-dark)
 
-## 📈 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=react-dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=tokyo-night)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=radical)
 
+![Metrics](https://metrics.lecoq.io/imharshitaa?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia/Kolkata)
 
 
 ## ⏳ Working On  
