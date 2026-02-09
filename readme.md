@@ -46,6 +46,21 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=react)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=react)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=react&cache_seconds=86400)
+
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imharshitaa&show_icons=true&theme=react
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=react&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&theme=react&show_icons=true&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imharshitaa&theme=react&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=react)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=react)
 
 
