@@ -44,6 +44,11 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=react-dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=react)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=react)
+
+
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
 - Open Source Security Tools & Research Projects  
