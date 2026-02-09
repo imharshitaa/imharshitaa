@@ -44,24 +44,25 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=react-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=react)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=react)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=react&cache_seconds=86400)
-
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imharshitaa&show_icons=true&theme=react
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=react&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&theme=react&show_icons=true&hide_border=true)
+--
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imharshitaa&theme=react&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imharshitaa&theme=github_dark&show_icons=true&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=github-dark&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&theme=tokyonight&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&theme=nord&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=nord)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imharshitaa&layout=compact&theme=tokyonight)
 
 
 ## ⏳ Working On  
