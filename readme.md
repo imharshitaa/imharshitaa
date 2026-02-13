@@ -48,6 +48,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imharshitaa&theme=github_dark&hide_border=true&hide=stars,issues,prs,commits)
 
+[![imharshitaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/imharshitaa/github-readme-stats#gh-dark-mode-only)
 
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
