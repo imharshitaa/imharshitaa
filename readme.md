@@ -47,6 +47,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=github-dark&hide_border=true)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imharshitaa&theme=github_dark&hide_border=true)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=github-dark&hide_border=true&area=true)
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=imharshitaa&theme=github_dark&hide_border=true)
