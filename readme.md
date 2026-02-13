@@ -46,6 +46,20 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=github-dark&hide_border=true)
 
+
+### 🏆 Total Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide=issues,contribs&theme=github_dark&hide_border=true)
+
+### 📅 Recent Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=github-dark&hide_border=true&area=true)
+
+
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
 - Open Source Security Tools & Research Projects  
