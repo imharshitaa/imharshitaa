@@ -47,18 +47,15 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=github-dark&hide_border=true)
 
 
-### 🏆 Total Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide=issues,contribs&theme=github_dark&hide_border=true)
-
-### 📅 Recent Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=github-dark&hide_border=true&area=true)
 
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=imharshitaa&theme=github_dark&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imharshitaa&theme=github_dark&hide_border=true)
+
+![Contributions](https://img.shields.io/badge/Total%20Contributions-{YOUR_NUMBER}-brightgreen?style=for-the-badge&logo=github&color=2ea44f&labelColor=0d1117)
+
+[![Harshita's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=imharshitaa&theme=github_dark&hide_border=true)](https://github.com/imharshitaa)
 
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
