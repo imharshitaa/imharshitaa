@@ -57,6 +57,14 @@
 
 [![Harshita's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=imharshitaa&theme=github_dark&hide_border=true)](https://github.com/imharshitaa)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imharshitaa&theme=github_dark&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imharshitaa&theme=github_dark&hide_border=true&show_icons=false&hide=stars,issues,prs,commits)
+
+![Total Contributions](https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Contributions&query=total&url=https://github-contributions-api.deno.dev/contributions/imharshitaa.json&color=2ea44f&labelColor=0d1117&style=for-the-badge)
+
+
+
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
 - Open Source Security Tools & Research Projects  
