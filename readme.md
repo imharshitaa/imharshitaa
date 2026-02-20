@@ -35,6 +35,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+![Security Architecture](https://img.shields.io/badge/Security_Architecture-2F4F4F?style=for-the-badge)
+![Code Scan Review](https://img.shields.io/badge/Code_Review-6A5ACD?style=for-the-badge)
+![Security Automation](https://img.shields.io/badge/Security_Automation-00008B?style=for-the-badge)
+![AppSec](https://img.shields.io/badge/Application_Security-FF0000?style=for-the-badge)
+
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge)
 ![Recon](https://img.shields.io/badge/Recon-222222?style=for-the-badge)
@@ -42,11 +50,6 @@
 ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-8A2BE2?style=for-the-badge)
 ![Vulnerability Research](https://img.shields.io/badge/Vulnerability_Research-000000?style=for-the-badge)
 
-![Security Architecture](https://img.shields.io/badge/Security_Architecture-2F4F4F?style=for-the-badge)
-![Security Code Review](https://img.shields.io/badge/Code_Review-6A5ACD?style=for-the-badge)
-![Secure Design](https://img.shields.io/badge/Secure_Design-228B22?style=for-the-badge)
-![Security Automation](https://img.shields.io/badge/Security_Automation-00008B?style=for-the-badge)
-![AppSec](https://img.shields.io/badge/Application_Security-FF0000?style=for-the-badge)
 
 ## What I do 
 - Application, API & Web Security Testing  
