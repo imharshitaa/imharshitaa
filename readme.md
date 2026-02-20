@@ -7,12 +7,14 @@
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=github_dark)
 ![GitHub Contribution Graph](https://ghchart.rshah.org/imharshitaa)
 
-## What I do 
-- Application, API & Web Security Testing  
-- Exploit Code Development (Offensive & Defensive)  
-- Threat Intelligence & Research  
-- DevSecOps & Secure Automation workflows
-- Open Source tools & Vulnerability analysis  
+## 🤖 Featured Repos  
+| Project Name | GitHub Link |
+|--------------|-------------|
+| **ToolKit** | [github.com/imharshitaa/toolkit](https://github.com/imharshitaa/toolkit) |
+| **BugPilot**| [github.com/imharshitaa/bugpilot](https://github.com/imharshitaa/bugpilot) |
+| **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) |
+| **AIPentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) |
+| **APIPentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) |
 
 ---
 
@@ -30,15 +32,12 @@
 ![Cursor](https://img.shields.io/badge/Cursor-F05032?style=for-the-badge&logo=cursor&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-## 🤖 Featured Repos  
-| Project Name | GitHub Link |
-|--------------|-------------|
-| **ToolKit** | [github.com/imharshitaa/toolkit](https://github.com/imharshitaa/toolkit) |
-| **BugPilot**| [github.com/imharshitaa/bugpilot](https://github.com/imharshitaa/bugpilot) |
-| **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) |
-| **AIPentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) |
-| **APIPentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) |
+## What I do 
+- Application, API & Web Security Testing  
+- Exploit Code Development (Offensive & Defensive)  
+- Threat Intelligence & Research  
+- DevSecOps & Secure Automation workflows
+- Open Source tools & Vulnerability analysis  
 
 
 ## Activity
