@@ -39,7 +39,7 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ![Security Architecture](https://img.shields.io/badge/Security_Architecture-2F4F4F?style=for-the-badge)
-![Code Scan Review](https://img.shields.io/badge/Code_Review-6A5ACD?style=for-the-badge)
+![Code Scan Review](https://img.shields.io/badge/Code_Scan_Review-6A5ACD?style=for-the-badge)
 ![Security Automation](https://img.shields.io/badge/Security_Automation-00008B?style=for-the-badge)
 ![AppSec](https://img.shields.io/badge/Application_Security-FF0000?style=for-the-badge)
 
