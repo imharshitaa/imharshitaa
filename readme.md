@@ -31,6 +31,22 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-F05032?style=for-the-badge&logo=cursor&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon-222222?style=for-the-badge)
+![Exploit Development](https://img.shields.io/badge/Exploit_Development-8B0000?style=for-the-badge)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-8A2BE2?style=for-the-badge)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability_Research-000000?style=for-the-badge)
+
+![Security Architecture](https://img.shields.io/badge/Security_Architecture-2F4F4F?style=for-the-badge)
+![Security Code Review](https://img.shields.io/badge/Code_Review-6A5ACD?style=for-the-badge)
+![Secure Design](https://img.shields.io/badge/Secure_Design-228B22?style=for-the-badge)
+![Security Automation](https://img.shields.io/badge/Security_Automation-00008B?style=for-the-badge)
+![AppSec](https://img.shields.io/badge/Application_Security-FF0000?style=for-the-badge)
 
 ## What I do 
 - Application, API & Web Security Testing  
