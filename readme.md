@@ -1,4 +1,4 @@
-### Hi, I’m Harshitaa :)  I like to hunt for bugs and build code for solutions to secure applications.
+### Hi, I’m Harshitaa :)  I like to hunt for bugs & build code to secure applications.
 
 **🛡️ Security Research Engineer 🛡️ PenTester 🛡️ Certified Ethical Hacker (CEH)**  
 
@@ -8,7 +8,7 @@
 ## 🤖 Featured Repos  
 | Project Name | GitHub Link | About |
 |--------------|-------------|-------|
-| **ToolKit** | [github.com/imharshitaa/toolkit](https://github.com/imharshitaa/toolkit) | Products tools automated implementation |
+| **ToolKit** | [github.com/imharshitaa/toolkit](https://github.com/imharshitaa/toolkit) | Products tools solutions implementation |
 | **BugPilot**| [github.com/imharshitaa/bugpilot](https://github.com/imharshitaa/bugpilot) | AI assisted bug detection |
 | **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) | code scan workflows in devsecops |
 | **AIPentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) | AI pentesting |
