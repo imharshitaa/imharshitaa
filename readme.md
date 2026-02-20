@@ -43,13 +43,11 @@
 ![Security Automation](https://img.shields.io/badge/Security_Automation-00008B?style=for-the-badge)
 ![AppSec](https://img.shields.io/badge/Application_Security-FF0000?style=for-the-badge)
 
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability_Research-000000?style=for-the-badge)
+![Bug Analysis](https://img.shields.io/badge/Bug_Analysis-8B0000?style=for-the-badge)
 ![Recon](https://img.shields.io/badge/Recon-222222?style=for-the-badge)
 ![Exploit Development](https://img.shields.io/badge/Exploit_Development-8B0000?style=for-the-badge)
 ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-8A2BE2?style=for-the-badge)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability_Research-000000?style=for-the-badge)
-
 
 ## What I do 
 - Application, API & Web Security Testing  
