@@ -1,4 +1,4 @@
-## Hi, I’m Harshitaa ; 🐞 I like to hunt for bugs and build code to break applications. 
+### Hi, I’m Harshitaa ; 🐞 I like to hunt for bugs and build code to break applications. 
 
 **🛡️ Security Research Engineer 🛡️ PenTester 🛡️ Certified Ethical Hacker (CEH)**  
 
