@@ -8,13 +8,13 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/imharshitaa)
 
 ## 🤖 Featured Repos  
-| Project Name | GitHub Link |
-|--------------|-------------|
-| **ToolKit** | [github.com/imharshitaa/toolkit](https://github.com/imharshitaa/toolkit) |
-| **BugPilot**| [github.com/imharshitaa/bugpilot](https://github.com/imharshitaa/bugpilot) |
-| **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) |
-| **AIPentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) |
-| **APIPentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) |
+| Project Name | GitHub Link | About |
+|--------------|-------------|-------|
+| **ToolKit** | [github.com/imharshitaa/toolkit](https://github.com/imharshitaa/toolkit) | Products tools automated implementation |
+| **BugPilot**| [github.com/imharshitaa/bugpilot](https://github.com/imharshitaa/bugpilot) | AI assisted bug detection |
+| **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) | code scan workflows in devsecops |
+| **AIPentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) | AI pentesting |
+| **APIPentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) | API pentesting |
 
 ---
 
