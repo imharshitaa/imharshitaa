@@ -1,8 +1,6 @@
-# Hi, I’m Harshitaa  
+## Hi, I’m Harshitaa ; 🐞 I like to hunt for bugs and build code to break applications. 
 
 **🛡️ Security Research Engineer 🛡️ PenTester 🛡️ Certified Ethical Hacker (CEH)**  
-
-🐞 I like to hunt for bugs and build codes to break applications. 
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=github_dark)
 ![GitHub Contribution Graph](https://ghchart.rshah.org/imharshitaa)
