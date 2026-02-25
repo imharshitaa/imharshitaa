@@ -3,7 +3,7 @@
 **🛡️ Security Research Engineer 🛡️ PenTester 🛡️ Certified Ethical Hacker (CEH)**  
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=github_dark)
-![GitHub Contribution Graph](https://ghchart.rshah.org/imharshitaa)
+![GitHub Contribution Graph](https://ghchart.rshah.org/imharshitaa?refresh=1)
 
 ## 🤖 Featured Repos  
 | Project Name | GitHub Link | About |
