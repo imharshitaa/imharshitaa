@@ -61,7 +61,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=github-dark&hide_border=true&hide=streaks)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imharshitaa&theme=github_dark&hide_border=true&hide=stars,issues,prs,commits)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imharshitaa&theme=github_dark&hide_border=true&hide=stars,issues,prs,commits&refresh=)
 
 ## ⏳ Working On  
 - CVE Exploits & Vulnerability Writeups  
