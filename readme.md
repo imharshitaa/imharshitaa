@@ -14,11 +14,6 @@
 | **AIPentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) | AI pentesting |
 | **APIPentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) | API pentesting |
 
-[![Harshitaa's github stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-![Harshitaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=imharshitaa&hide=contribs,prs)
-
-
 ---
 
 ## 🕹️ Security toolkit  
