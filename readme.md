@@ -11,6 +11,7 @@
 | **ToolKit** | [github.com/imharshitaa/toolkit](https://github.com/imharshitaa/toolkit) | Products tools solutions implementation |
 | **BugPilot**| [github.com/imharshitaa/bugpilot](https://github.com/imharshitaa/bugpilot) | AI assisted bug detection |
 | **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) | code scan workflows in devsecops |
+| **playbox** | [github.com/imharshitaa/playbox](https://github.com/imharshitaa/playbox) | Vulnerable labs |
 | **AIPentest** | [github.com/imharshitaa/AI-Pentest](https://github.com/imharshitaa/AI-Pentest) | AI pentesting |
 | **APIPentest** | [github.com/imharshitaa/API_Pentest](https://github.com/imharshitaa/API_Pentest) | API pentesting |
 
