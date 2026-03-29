@@ -2,22 +2,63 @@
 
 **🛡️ Security Research Engineer 🛡️ PenTester 🛡️ Certified Ethical Hacker (CEH)**  
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=github_dark)
-![GitHub Contribution Graph](https://ghchart.rshah.org/imharshitaa?refresh=1)
+- @Linkedin: ``https://www.linkedin.com/in/harshitaa-ashish-85767621a/``
+- @Website: ``https://imharshitaa.github.io/root0zaki/``
+- @Medium: ``https://medium.com/@imharshitaa``
+- @Credly: ``https://www.credly.com/users/harshitaa-ashish/badges#credly``
+- @Bugcrowd: ``https://bugcrowd.com/h/root0zaki``
 
-## 🤖 Featured Repos  
-| Project Name | GitHub Link | About |
-|--------------|-------------|-------|
-| **ToolKit** | [github.com/imharshitaa/toolkit](https://github.com/imharshitaa/toolkit) | Products tools solutions implementation |
-| **BugPilot**| [github.com/imharshitaa/bugpilot](https://github.com/imharshitaa/bugpilot) | AI assisted bug detection |
-| **DevSecKit** | [github.com/imharshitaa/DevSecKit](https://github.com/imharshitaa/DevSecKit) | code scan workflows in devsecops |
-| **playbox** | [github.com/imharshitaa/playbox](https://github.com/imharshitaa/playbox) | Vulnerable labs |
-| **AIvector** | [github.com/imharshitaa/AIvector](https://github.com/imharshitaa/AIvector) | AI pentesting |
-| **APIvector** | [github.com/imharshitaa/APIvector](https://github.com/imharshitaa/APIvector) | API pentesting |
+## Featured Projects  
+
+### ToolKit:
+> Modular security toolkit for building and integrating application security workflows  
+Repo: https://github.com/imharshitaa/toolkit  
+Stack: Security Automation, CLI Tools, Solution implementation,  
+Highlight: Provides reusable security utilities and modular components to accelerate security testing and tooling development  
 
 ---
 
-## 🕹️ Security toolkit  
+### BugPilot:
+> AI-assisted vulnerability detection and bug analysis system  
+Repo: https://github.com/imharshitaa/bugpilot  
+Stack: Python, LLMs, AI Security, Static Analysis  
+Highlight: Enhances bug discovery and triaging using AI-driven analysis to reduce manual effort and improve detection accuracy  
+
+---
+
+### DevSecKit:
+> CI/CD security scanning framework for DevSecOps pipelines  
+Repo: https://github.com/imharshitaa/DevSecKit  
+Stack: DevSecOps, GitHub Actions, SAST, SCA, Secrets, IaC, DAST, IAST  
+Highlight: Automates security checks and scans in pipelines with minimal setup and optimized workflow execution  
+
+---
+
+### playbox:
+> Vulnerable application lab environment for security testing and exploitation practice  
+Repo: https://github.com/imharshitaa/playbox  
+Stack: Web Security, Docker, Vulnerable Apps, Pentesting Labs  
+Highlight: Provides controlled vulnerable scenarios for testing exploits, tools, and real-world attack techniques  
+
+---
+
+### AIvector:
+> AI-driven penetration testing assistant for automated security analysis  
+Repo: https://github.com/imharshitaa/AIvector  
+Stack: Python, LLMs, Offensive Security, Automation  
+Highlight: Uses AI to assist in attack surface analysis and vulnerability identification during penetration testing workflows  
+
+---
+
+### APIvector:
+> API security testing and penetration testing toolkit  
+Repo: https://github.com/imharshitaa/APIvector  
+Stack: API Security, REST, Python, Automation, OWASP API Top 10  
+Highlight: Focused on identifying API-specific vulnerabilities through automated testing and attack simulation techniques  
+
+---
+
+## setup  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -49,40 +90,13 @@
 ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-8A2BE2?style=for-the-badge)
 
 ## What I do 
-- Application, API & Web Security Testing  
-- Exploit Code Development (Offensive & Defensive)  
+- Application, API & Web Product Security  
+- Secure Code Development (Offensive & Defensive)  
 - Threat Intelligence & Research  
 - DevSecOps & Secure Automation workflows
-- Open Source tools & Vulnerability analysis  
+- Open Source tools & Vulnerability analysis
 
-
-## Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imharshitaa&theme=github-dark&hide_border=true&area=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=imharshitaa&theme=github-dark&hide_border=true&hide=streaks)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imharshitaa&theme=github_dark&hide_border=true&hide=stars,issues,prs,commits&refresh=)
-
-## ⏳ Working On  
-- CVE Exploits & Vulnerability Writeups  
-- Open Source Security Tools & Research Projects  
-
----
-
-## Lets Connect! 
-- Linkedin - [LinkedIn – Harshitaa Ashish](https://www.linkedin.com/in/harshitaa-ashish-85767621a/)  
-- Portfolio: [Website](https://imharshitaa.github.io/root0zaki/)  
-- Github - [GitHub – imharshitaa](https://github.com/imharshitaa) 
-
- 
-
-
-
-
-
-
-
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharshitaa&theme=github_dark)
 
 
 
